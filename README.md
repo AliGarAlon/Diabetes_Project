@@ -1,4 +1,4 @@
-# miniProject
+# Type 2 diabetes Diagonosis tool:
 The topic for this project is the chronich illness of Diabetes mellitus, commonly known as Diabetes.
 Goals:
 > To develop a tool that could assess profesionals in determining the diagnosis of Type II Diabetes. This illness typically develops at middle age, with mild symptoms at the beginning, hindering an early diagnosis.
